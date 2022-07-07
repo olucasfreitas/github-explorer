@@ -1,5 +1,5 @@
-import "./styles/global.css";
+import "./styles/global.scss";
 
 export function App() {
-  return <div>Hello ReactJS</div>;
+  return <h1>Hello ReactJS</h1>;
 }
